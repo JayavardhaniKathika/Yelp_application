@@ -1,7 +1,7 @@
 # Yelp_application
 Yelp application to search users and business.
 
-The primary users for this desktop application will be potential customers seeking for businesses and users that match their search criteria.
+The primary users for this desktop application will be potential customers seeking for businesses and yelp-users that match their search criteria.
 
 This application will have a user interface that provides the user the available business categories (main, sub-categories), the attributes associated with each business category along with business review and yelp user information associated with each business category.
 
@@ -9,4 +9,6 @@ Using this application the user will search for the businesses from various busi
 
 This uses Faceted search to drill down the search results by applying some criteria.
 
-The user can filter the search results using available business attributes (i.e. facets) such as category, sub-category, reviews, stars and votes. The users can be filtered based on their review count, stars, number of friends. Each time the user clicks on a facet value; the set of results is reduced to only the items that have that value. Additional clicks continue to narrow down the search—the previous facet values are remembered and applied again.
+The user can filter the search results using available business attributes (i.e. facets) such as category, sub-category, reviews, stars and votes. The yelp-users can be filtered based on their review count, stars, number of friends. Each time the user clicks on a facet value; the set of results is reduced to only the items that have that value. Additional clicks continue to narrow down the search—the previous facet values are remembered and applied again.
+
+Used Indexing to make the search faster.
